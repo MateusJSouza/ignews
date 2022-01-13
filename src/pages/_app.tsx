@@ -1,6 +1,6 @@
+import { Provider as NextAuthProvider } from 'next-auth/client'
 import { AppProps } from 'next/app' // props que o componente pode receber
 import { Header } from '../components/Header/index'
-import { Provider as NextAuthProvider } from 'next-auth/client'
 
 import '../styles/global.scss'
 
